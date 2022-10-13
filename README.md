@@ -1,5 +1,3 @@
-# pInfoIllegal
-
 ## Réglementation 
 
   <ul>Merci de ne pas revendre de scripts !</ul>
