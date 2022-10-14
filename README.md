@@ -9,7 +9,7 @@
 ## Présentation 
 
   <ul>Framework : <i>ESX</i></ul>
-  <ul>Libs : <i>RageUiX</i></ul>
+  <ul>Libs : <i>RageUiX</i> <a href='https://github.com/Florian-1801/RageUIx'>Créateur</a></ul>
   <ul>Optimisation : 0.01</ul>
 
 ## Crédits 
