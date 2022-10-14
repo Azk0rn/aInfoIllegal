@@ -14,6 +14,7 @@
 
 ## Crédits 
 
-  <ul><a href='https://github.com/Azk0rn'>✨ Pomme | Shimotsuki </a></ul>
+  <ul><a href='https://github.com/Azk0rn'>✨ Shimotsuki </a></ul>
+  <ul><a href='https://github.com/TeamAnarchyDev'>✨ Pomme</a></ul>
 
 -- Please read the rules carefully
