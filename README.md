@@ -16,6 +16,6 @@
 
   <ul><a href='https://github.com/Azk0rn'>✨ Shimotsuki </a></ul>
   <ul><a href='https://github.com/TeamAnarchyDev'>✨ Pomme</a></ul>
-  <ul><a href='https://github.com/Florian-1801/RageUIx'>✨ Florian-1801 <i>For RageUiX</i></a></ul>
+  <ul><a href='https://github.com/Florian-1801/RageUIx'>✨ Florian-1801 </a><i>For RageUiX</i></ul>
 
 -- Please read the rules carefully
