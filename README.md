@@ -9,12 +9,13 @@
 ## Présentation 
 
   <ul>Framework : <i>ESX</i></ul>
-  <ul>Libs : <a href='https://github.com/Florian-1801/RageUIx'>RageUiX</a></ul>
+  <ul>Libs : <i>RageUiX</i></ul>
   <ul>Optimisation : 0.01</ul>
 
 ## Crédits 
 
   <ul><a href='https://github.com/Azk0rn'>✨ Shimotsuki </a></ul>
   <ul><a href='https://github.com/TeamAnarchyDev'>✨ Pomme</a></ul>
+  <ul><a href='https://github.com/Florian-1801/RageUIx'>✨ Florian-1801 <i>For RageUiX</i></a></ul>
 
 -- Please read the rules carefully
